@@ -1,6 +1,6 @@
 body {
     margin: 0 auto;
-    font-family: sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: border-box;
     background-color: papayawhip;
 }
@@ -38,6 +38,7 @@ p {
 background-color: #87cefa;
 color: white;
 padding: 8px;
+font-size: 20px;
 }
 
 img {
